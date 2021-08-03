@@ -6,7 +6,7 @@ This project is me making this ambition a reality for myself.*
 
 
 ## Demo:
-<img src="https://github.com/sla-ppy/sla-ppy/blob/master/nodemo.png" alt="nodemo.png">
+<img src="nodemo.png" alt="nodemo.png">
 <br>
 <br>
 
