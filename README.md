@@ -6,7 +6,7 @@ This project is me making this ambition a reality for myself.*
 
 
 ## Demo:
-<img src="assets/demos/nodemo.png" alt="nodemo.png">
+<img src="assets/demo/nodemo.png" alt="nodemo.png">
 <br>
 <br>
 
